@@ -24,5 +24,6 @@ $Pegawai = [
     ];
 
 var_dump($Pegawai);
+var_dump($Pegawai["Hoby"]["Olahraga"])
 
     ?>
