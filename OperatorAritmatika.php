@@ -1,10 +1,11 @@
 <?php 
 
 $angka1 = 30;
-$angka2 = -20;
+$angka2 = 20;
 
 echo "Angka Positif: $angka1\n";
-echo "Angka Negatif : $angka2\n";
+$angka2Negatif = -$angka2;
+echo "Angka2 Negatif : $angka2Negatif\n";
 $penjumlahan = $angka1 + $angka2;
 echo "Penambahan: $penjumlahan\n";
 $pengurangan = $angka1 - $angka2;
