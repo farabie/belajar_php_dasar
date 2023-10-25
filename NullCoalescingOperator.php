@@ -1,7 +1,9 @@
 <?php
 
 
-$data = [];
+$data = [
+    // "action"=> "Create",
+];
 
 //Ini yang tanpa coalescing
 // if (isset($data['action'])) {
