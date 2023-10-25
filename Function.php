@@ -13,7 +13,7 @@ sayHello();
 $create = true;
 if($create){
     function hi() {
-        echo "Hi Functio". PHP_EOL;
+        echo "Hi Function". PHP_EOL;
     }
 }
 
